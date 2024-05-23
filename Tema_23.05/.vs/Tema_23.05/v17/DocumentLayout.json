@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\itschool\\Tema_23.05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90909D6D-E844-436F-BE33-1975A0AED2BA}|Tema_23.05.vcxproj|C:\\Users\\andre\\Desktop\\itschool\\Tema_23.05\\Tema_23.05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90909D6D-E844-436F-BE33-1975A0AED2BA}|Tema_23.05.vcxproj|solutionrelative:Tema_23.05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tema_23.05.cpp",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\itschool\\Tema_23.05\\Tema_23.05.cpp",
+              "RelativeDocumentMoniker": "Tema_23.05.cpp",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\itschool\\Tema_23.05\\Tema_23.05.cpp",
+              "RelativeToolTip": "Tema_23.05.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T14:25:39.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
