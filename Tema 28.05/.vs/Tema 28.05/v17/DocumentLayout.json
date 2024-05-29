@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\itschool\\Tema 28.05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D69854FE-048F-496A-8539-21270F93B7BC}|Tema 28.05.vcxproj|C:\\Users\\andre\\Desktop\\itschool\\Tema 28.05\\Tema 28.05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D69854FE-048F-496A-8539-21270F93B7BC}|Tema 28.05.vcxproj|solutionrelative:Tema 28.05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tema 28.05.cpp",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\itschool\\Tema 28.05\\Tema 28.05.cpp",
+              "RelativeDocumentMoniker": "Tema 28.05.cpp",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\itschool\\Tema 28.05\\Tema 28.05.cpp",
+              "RelativeToolTip": "Tema 28.05.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-29T14:49:04.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
