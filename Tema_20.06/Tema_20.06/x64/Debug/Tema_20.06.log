@@ -1,0 +1,3 @@
+﻿  Tema_20.06.cpp
+C:\Users\andre\Desktop\itschool\Tema_20.06\Tema_20.06.cpp(45,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Tema_20.06.vcxproj -> C:\Users\andre\Desktop\itschool\Tema_20.06\x64\Debug\Tema_20.06.exe
