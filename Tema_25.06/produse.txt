@@ -1,0 +1,4 @@
+Banane 90 9.0
+Rosii 70 5.5
+Cartofi 100 3.5
+Lamai 30 9.2

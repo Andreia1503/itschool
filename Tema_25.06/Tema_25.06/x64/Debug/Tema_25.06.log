@@ -1,0 +1,5 @@
+﻿  Tema_25.06.cpp
+C:\Users\andre\Desktop\itschool\Tema_25.06\Tema_25.06.cpp(14,9): error C2561: 'citire': function must return a value
+  C:\Users\andre\Desktop\itschool\Tema_25.06\Tema_25.06.cpp(7,6):
+  see declaration of 'citire'
+  
