@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+
 //1//
 
 void func(int n)
